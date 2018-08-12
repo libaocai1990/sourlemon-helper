@@ -1,2 +1,2 @@
 # sourlemon-helper
-laravel sourlemon helper
+sourlemon helper
