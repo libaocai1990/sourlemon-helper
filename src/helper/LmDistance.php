@@ -1,5 +1,5 @@
 <?php
-namespace libaocai1990\SourLemonHelper;
+namespace libaocai1990\SourLemonHelper\helper;
 
 /**
  * 位置距离换算

@@ -1,5 +1,5 @@
 <?php
-namespace libaocai1990\SourLemonHelper;
+namespace libaocai1990\SourLemonHelper\helper;
 
 /**
  * 数组辅助函数

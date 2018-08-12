@@ -1,5 +1,5 @@
 <?php
-namespace libaocai1990\SourLemonHelper;
+namespace libaocai1990\SourLemonHelper\helper;
 
 /**
  * Format格式化帮助库

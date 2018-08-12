@@ -1,6 +1,5 @@
 <?php
-
-namespace libaocai1990\SourLemonHelper;
+namespace libaocai1990\SourLemonHelper\helper;
 
 /**
  * 验证处理类函数库
